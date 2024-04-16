@@ -10,4 +10,4 @@ updates:
    open-pull-requests-limit: 20
    schedule:
      interval: "daily"
-     # Check for npm updates on all days
+     # Check for maven updates on all days
