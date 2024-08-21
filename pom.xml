@@ -11,7 +11,7 @@
 
 	<properties>
 		<springframework.version>6.1.12</springframework.version>
-		<springsecurity.version>6.3.1</springsecurity.version>
+		<springsecurity.version>6.3.3</springsecurity.version>
 		<hibernate.version>5.6.15.Final</hibernate.version>
 		<mysql.connector.version>8.0.30</mysql.connector.version>
 		<c3po.version>0.10.1</c3po.version>
