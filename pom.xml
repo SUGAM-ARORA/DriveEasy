@@ -10,7 +10,7 @@
 	<name>TireShop</name>
 
 	<properties>
-		<springframework.version>6.2.0</springframework.version>
+		<springframework.version>6.2.2</springframework.version>
 		<springsecurity.version>6.4.1</springsecurity.version>
 		<hibernate.version>5.6.15.Final</hibernate.version>
 		<mysql.connector.version>8.0.30</mysql.connector.version>
